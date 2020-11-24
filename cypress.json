@@ -1,0 +1,9 @@
+{
+    "experimentalFetchPolyfill": true,
+    "env":
+    {
+        "url": "https://demoblaze.com"
+    },
+    "reporter":"mochawesome"
+
+}
